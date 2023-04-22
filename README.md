@@ -25,5 +25,5 @@ _Интерактивный адаптивный одностраничный с
 * REST API
 
 ## Ссылка на проект:
-[https://siberianmishka.github.io/mesto/index.html]
-[https://siberianmishka.github.io/mesto/]
+[https://github.com/SiberianMishka/react-mesto-auth]
+[https://siberianmishka.github.io/react-mesto-auth/]
