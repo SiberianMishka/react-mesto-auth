@@ -147,7 +147,7 @@ export default function App() {
     if (!formValue.email || !formValue.password) {
       return;
     }
-    auth.authorize(formValue.email, formValue.password)
+    auth.authorize(formValue.password, formValue.email)
       .then((res) => {
         if (res.token) {
           localStorage.setItem('token', res.token);
